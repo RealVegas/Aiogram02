@@ -1,5 +1,4 @@
 import asyncio
-import aiofiles
 from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import CommandStart, Command
 from aiogram.types import FSInputFile, Message
